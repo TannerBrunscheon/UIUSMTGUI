@@ -207,6 +207,66 @@
   <data name="&gt;&gt;tabPage1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <data name="&gt;&gt;txtPassword.Name" xml:space="preserve">
+    <value>txtPassword</value>
+  </data>
+  <data name="&gt;&gt;txtPassword.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtPassword.Parent" xml:space="preserve">
+    <value>groupBox8</value>
+  </data>
+  <data name="&gt;&gt;txtPassword.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>groupBox8</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;boxLAE.Name" xml:space="preserve">
+    <value>boxLAE</value>
+  </data>
+  <data name="&gt;&gt;boxLAE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;boxLAE.Parent" xml:space="preserve">
+    <value>groupBox8</value>
+  </data>
+  <data name="&gt;&gt;boxLAE.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;boxLAC.Name" xml:space="preserve">
+    <value>boxLAC</value>
+  </data>
+  <data name="&gt;&gt;boxLAC.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;boxLAC.Parent" xml:space="preserve">
+    <value>groupBox8</value>
+  </data>
+  <data name="&gt;&gt;boxLAC.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="groupBox8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>38, 739</value>
+  </data>
+  <data name="groupBox8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>553, 200</value>
+  </data>
+  <data name="groupBox8.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="groupBox8.Text" xml:space="preserve">
+    <value>Local Accounts</value>
+  </data>
   <data name="&gt;&gt;groupBox8.Name" xml:space="preserve">
     <value>groupBox8</value>
   </data>
@@ -218,6 +278,21 @@
   </data>
   <data name="&gt;&gt;groupBox8.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="pictureBox2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>37, 6</value>
+  </data>
+  <data name="pictureBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>567, 424</value>
+  </data>
+  <data name="pictureBox2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="pictureBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
   </data>
   <data name="&gt;&gt;pictureBox2.Name" xml:space="preserve">
     <value>pictureBox2</value>
@@ -231,6 +306,42 @@
   <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="&gt;&gt;btnRestoreLocal.Name" xml:space="preserve">
+    <value>btnRestoreLocal</value>
+  </data>
+  <data name="&gt;&gt;btnRestoreLocal.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnRestoreLocal.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="&gt;&gt;btnRestoreLocal.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txtRestoreLocal.Name" xml:space="preserve">
+    <value>txtRestoreLocal</value>
+  </data>
+  <data name="&gt;&gt;txtRestoreLocal.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtRestoreLocal.Parent" xml:space="preserve">
+    <value>groupBox7</value>
+  </data>
+  <data name="&gt;&gt;txtRestoreLocal.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupBox7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>37, 638</value>
+  </data>
+  <data name="groupBox7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>554, 95</value>
+  </data>
+  <data name="groupBox7.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="groupBox7.Text" xml:space="preserve">
+    <value>Mig File Location</value>
+  </data>
   <data name="&gt;&gt;groupBox7.Name" xml:space="preserve">
     <value>groupBox7</value>
   </data>
@@ -242,6 +353,135 @@
   </data>
   <data name="&gt;&gt;groupBox7.ZOrder" xml:space="preserve">
     <value>2</value>
+  </data>
+  <data name="btnDateRestore.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btnDateRestore.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnDateRestore.Location" type="System.Drawing.Point, System.Drawing">
+    <value>38, 112</value>
+  </data>
+  <data name="btnDateRestore.Size" type="System.Drawing.Size, System.Drawing">
+    <value>397, 33</value>
+  </data>
+  <data name="btnDateRestore.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="btnDateRestore.Text" xml:space="preserve">
+    <value>By Days or Date Since Last Login</value>
+  </data>
+  <data name="&gt;&gt;btnDateRestore.Name" xml:space="preserve">
+    <value>btnDateRestore</value>
+  </data>
+  <data name="&gt;&gt;btnDateRestore.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDateRestore.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;btnDateRestore.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtRestoreDate.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtRestoreDate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>126, 151</value>
+  </data>
+  <data name="txtRestoreDate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>364, 35</value>
+  </data>
+  <data name="txtRestoreDate.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="txtRestoreDate.Text" xml:space="preserve">
+    <value>YYYY/MM/DD</value>
+  </data>
+  <data name="&gt;&gt;txtRestoreDate.Name" xml:space="preserve">
+    <value>txtRestoreDate</value>
+  </data>
+  <data name="&gt;&gt;txtRestoreDate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtRestoreDate.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;txtRestoreDate.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="restoreNoTechBtn.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="restoreNoTechBtn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="restoreNoTechBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>38, 73</value>
+  </data>
+  <data name="restoreNoTechBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>302, 33</value>
+  </data>
+  <data name="restoreNoTechBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="restoreNoTechBtn.Text" xml:space="preserve">
+    <value>All Profiles But Tech IDs</value>
+  </data>
+  <data name="&gt;&gt;restoreNoTechBtn.Name" xml:space="preserve">
+    <value>restoreNoTechBtn</value>
+  </data>
+  <data name="&gt;&gt;restoreNoTechBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;restoreNoTechBtn.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;restoreNoTechBtn.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="restoreAllBtn.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="restoreAllBtn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="restoreAllBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>38, 34</value>
+  </data>
+  <data name="restoreAllBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>159, 33</value>
+  </data>
+  <data name="restoreAllBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="restoreAllBtn.Text" xml:space="preserve">
+    <value>All Profiles</value>
+  </data>
+  <data name="&gt;&gt;restoreAllBtn.Name" xml:space="preserve">
+    <value>restoreAllBtn</value>
+  </data>
+  <data name="&gt;&gt;restoreAllBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;restoreAllBtn.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;restoreAllBtn.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>37, 436</value>
+  </data>
+  <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>554, 196</value>
+  </data>
+  <data name="groupBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="groupBox4.Text" xml:space="preserve">
+    <value>Restore</value>
   </data>
   <data name="&gt;&gt;groupBox4.Name" xml:space="preserve">
     <value>groupBox4</value>
@@ -255,6 +495,51 @@
   <data name="&gt;&gt;groupBox4.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="&gt;&gt;decryptBox.Name" xml:space="preserve">
+    <value>decryptBox</value>
+  </data>
+  <data name="&gt;&gt;decryptBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;decryptBox.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;decryptBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;decryptBtn.Name" xml:space="preserve">
+    <value>decryptBtn</value>
+  </data>
+  <data name="&gt;&gt;decryptBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;decryptBtn.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;decryptBtn.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>37, 945</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>326, 145</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
   <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
     <value>groupBox1</value>
   </data>
@@ -266,6 +551,21 @@
   </data>
   <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
     <value>4</value>
+  </data>
+  <data name="btnRestore.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnRestore.Location" type="System.Drawing.Point, System.Drawing">
+    <value>405, 999</value>
+  </data>
+  <data name="btnRestore.Size" type="System.Drawing.Size, System.Drawing">
+    <value>199, 63</value>
+  </data>
+  <data name="btnRestore.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="btnRestore.Text" xml:space="preserve">
+    <value>Begin Restore</value>
   </data>
   <data name="&gt;&gt;btnRestore.Name" xml:space="preserve">
     <value>btnRestore</value>
@@ -306,24 +606,6 @@
   <data name="&gt;&gt;tabPage2.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>2, 1050</value>
-  </data>
-  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>405, 29</value>
-  </data>
-  <data name="label4.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
-  </data>
-  <data name="label4.Text" xml:space="preserve">
-    <value>Created by Tanner Brunscheon 2017</value>
-  </data>
   <data name="&gt;&gt;label4.Name" xml:space="preserve">
     <value>label4</value>
   </data>
@@ -335,27 +617,6 @@
   </data>
   <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
     <value>0</value>
-  </data>
-  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 26pt, style=Bold</value>
-  </data>
-  <data name="label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>215, 230</value>
-  </data>
-  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>201, 89</value>
-  </data>
-  <data name="label3.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="label3.Text" xml:space="preserve">
-    <value>Help</value>
   </data>
   <data name="&gt;&gt;label3.Name" xml:space="preserve">
     <value>label3</value>
@@ -369,21 +630,6 @@
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="btnMIG.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="btnMIG.Location" type="System.Drawing.Point, System.Drawing">
-    <value>207, 156</value>
-  </data>
-  <data name="btnMIG.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 56</value>
-  </data>
-  <data name="btnMIG.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="btnMIG.Text" xml:space="preserve">
-    <value>Migration Viewer</value>
-  </data>
   <data name="&gt;&gt;btnMIG.Name" xml:space="preserve">
     <value>btnMIG</value>
   </data>
@@ -396,37 +642,6 @@
   <data name="&gt;&gt;btnMIG.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="richTextBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 331</value>
-  </data>
-  <data name="richTextBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>641, 725</value>
-  </data>
-  <data name="richTextBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="richTextBox1.Text" xml:space="preserve">
-    <value>1.	Back up
-To back up a profile first select your option you would like to use. If you pick all profiles but tech ID’s all profiles but tech ID’s are backed up. If you choose days or date, you can enter a number or a date in YYYY/MM/DD format as specified. The program will automatically sense it. The number must be non-negative and the date must be in that format. IF YOU PICK BY DATE OR TIME YOU MUST EXCLUDE TECH ID’S ON RESTORE. If you pick specific profiles, check the profiles you want to back up. If you click all the profiles button all profiles will be selected. If you click it again, no profiles are selected. The button will stay on but this does not matter.
-
-
-The output box is automatically filled with the usb drive in the computer if there is on. The box will show the name of the currently selected drive. You can type in this box or you can press the … button on the right and a dialog will come up where you can pick the file you want to back up to. THIS FILE MUST EXIST. Once you pick the file you can pick a template where the program will make that file for you. Checking the box will allow you to pick a template. If you uncheck the box, the template will go away. Typing or selecting a new file will remove the template
-
-
-You can encrypt using the next box. You must insert a key. You also have a chance to overwrite.
-
-
-2.	Restore
-To restore a profile pick an option from the list. Restore all profiles restores all profiles on the file.  Restore all profiles but Tech ID’s restores all profiles but Tech ID’s. The date box can be filled with a date or days since last log in at the time of the back up to restore. 
-
-
-The next box allows you to choose if you migrate local accounts. You can set a password for the local accounts or leave it blank. All accounts will be the same. You can also choose if the accounts are enabled or disabled.
-
-
-The input box must select a MIG file and the program will do the rest. You can decrypt using the next box. You must insert a key.
-
-</value>
-  </data>
   <data name="&gt;&gt;richTextBox1.Name" xml:space="preserve">
     <value>richTextBox1</value>
   </data>
@@ -438,54 +653,6 @@ The input box must select a MIG file and the program will do the rest. You can d
   </data>
   <data name="&gt;&gt;richTextBox1.ZOrder" xml:space="preserve">
     <value>3</value>
-  </data>
-  <data name="&gt;&gt;btnProgress.Name" xml:space="preserve">
-    <value>btnProgress</value>
-  </data>
-  <data name="&gt;&gt;btnProgress.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnProgress.Parent" xml:space="preserve">
-    <value>groupBox6</value>
-  </data>
-  <data name="&gt;&gt;btnProgress.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnBackLog.Name" xml:space="preserve">
-    <value>btnBackLog</value>
-  </data>
-  <data name="&gt;&gt;btnBackLog.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnBackLog.Parent" xml:space="preserve">
-    <value>groupBox6</value>
-  </data>
-  <data name="&gt;&gt;btnBackLog.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btnRestoreLog.Name" xml:space="preserve">
-    <value>btnRestoreLog</value>
-  </data>
-  <data name="&gt;&gt;btnRestoreLog.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnRestoreLog.Parent" xml:space="preserve">
-    <value>groupBox6</value>
-  </data>
-  <data name="&gt;&gt;btnRestoreLog.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="groupBox6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 15</value>
-  </data>
-  <data name="groupBox6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>628, 135</value>
-  </data>
-  <data name="groupBox6.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="groupBox6.Text" xml:space="preserve">
-    <value>Logs</value>
   </data>
   <data name="&gt;&gt;groupBox6.Name" xml:space="preserve">
     <value>groupBox6</value>
@@ -1210,78 +1377,6 @@ The input box must select a MIG file and the program will do the rest. You can d
   <data name="&gt;&gt;btnMigrate.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="&gt;&gt;txtPassword.Name" xml:space="preserve">
-    <value>txtPassword</value>
-  </data>
-  <data name="&gt;&gt;txtPassword.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtPassword.Parent" xml:space="preserve">
-    <value>groupBox8</value>
-  </data>
-  <data name="&gt;&gt;txtPassword.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;label5.Name" xml:space="preserve">
-    <value>label5</value>
-  </data>
-  <data name="&gt;&gt;label5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
-    <value>groupBox8</value>
-  </data>
-  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;boxLAE.Name" xml:space="preserve">
-    <value>boxLAE</value>
-  </data>
-  <data name="&gt;&gt;boxLAE.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;boxLAE.Parent" xml:space="preserve">
-    <value>groupBox8</value>
-  </data>
-  <data name="&gt;&gt;boxLAE.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;boxLAC.Name" xml:space="preserve">
-    <value>boxLAC</value>
-  </data>
-  <data name="&gt;&gt;boxLAC.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;boxLAC.Parent" xml:space="preserve">
-    <value>groupBox8</value>
-  </data>
-  <data name="&gt;&gt;boxLAC.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="groupBox8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>38, 739</value>
-  </data>
-  <data name="groupBox8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>553, 200</value>
-  </data>
-  <data name="groupBox8.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
-  </data>
-  <data name="groupBox8.Text" xml:space="preserve">
-    <value>Local Accounts</value>
-  </data>
-  <data name="&gt;&gt;groupBox8.Name" xml:space="preserve">
-    <value>groupBox8</value>
-  </data>
-  <data name="&gt;&gt;groupBox8.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox8.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;groupBox8.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="txtPassword.Location" type="System.Drawing.Point, System.Drawing">
     <value>156, 89</value>
   </data>
@@ -1334,7 +1429,7 @@ The input box must select a MIG file and the program will do the rest. You can d
     <value>True</value>
   </data>
   <data name="boxLAE.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 141</value>
+    <value>27, 139</value>
   </data>
   <data name="boxLAE.Size" type="System.Drawing.Size, System.Drawing">
     <value>288, 33</value>
@@ -1384,81 +1479,6 @@ The input box must select a MIG file and the program will do the rest. You can d
   <data name="&gt;&gt;boxLAC.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="pictureBox2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="pictureBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>37, 6</value>
-  </data>
-  <data name="pictureBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>567, 424</value>
-  </data>
-  <data name="pictureBox2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="pictureBox2.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Name" xml:space="preserve">
-    <value>pictureBox2</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btnRestoreLocal.Name" xml:space="preserve">
-    <value>btnRestoreLocal</value>
-  </data>
-  <data name="&gt;&gt;btnRestoreLocal.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnRestoreLocal.Parent" xml:space="preserve">
-    <value>groupBox7</value>
-  </data>
-  <data name="&gt;&gt;btnRestoreLocal.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;txtRestoreLocal.Name" xml:space="preserve">
-    <value>txtRestoreLocal</value>
-  </data>
-  <data name="&gt;&gt;txtRestoreLocal.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtRestoreLocal.Parent" xml:space="preserve">
-    <value>groupBox7</value>
-  </data>
-  <data name="&gt;&gt;txtRestoreLocal.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="groupBox7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>37, 638</value>
-  </data>
-  <data name="groupBox7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>554, 95</value>
-  </data>
-  <data name="groupBox7.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="groupBox7.Text" xml:space="preserve">
-    <value>Mig File Location</value>
-  </data>
-  <data name="&gt;&gt;groupBox7.Name" xml:space="preserve">
-    <value>groupBox7</value>
-  </data>
-  <data name="&gt;&gt;groupBox7.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox7.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;groupBox7.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
   <data name="btnRestoreLocal.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -1506,252 +1526,6 @@ The input box must select a MIG file and the program will do the rest. You can d
   </data>
   <data name="&gt;&gt;txtRestoreLocal.ZOrder" xml:space="preserve">
     <value>1</value>
-  </data>
-  <data name="&gt;&gt;btnDateRestore.Name" xml:space="preserve">
-    <value>btnDateRestore</value>
-  </data>
-  <data name="&gt;&gt;btnDateRestore.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnDateRestore.Parent" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;btnDateRestore.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;txtRestoreDate.Name" xml:space="preserve">
-    <value>txtRestoreDate</value>
-  </data>
-  <data name="&gt;&gt;txtRestoreDate.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtRestoreDate.Parent" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;txtRestoreDate.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;restoreNoTechBtn.Name" xml:space="preserve">
-    <value>restoreNoTechBtn</value>
-  </data>
-  <data name="&gt;&gt;restoreNoTechBtn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;restoreNoTechBtn.Parent" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;restoreNoTechBtn.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;restoreAllBtn.Name" xml:space="preserve">
-    <value>restoreAllBtn</value>
-  </data>
-  <data name="&gt;&gt;restoreAllBtn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;restoreAllBtn.Parent" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;restoreAllBtn.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>37, 436</value>
-  </data>
-  <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>554, 196</value>
-  </data>
-  <data name="groupBox4.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="groupBox4.Text" xml:space="preserve">
-    <value>Restore</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.Name" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="btnDateRestore.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="btnDateRestore.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="btnDateRestore.Location" type="System.Drawing.Point, System.Drawing">
-    <value>38, 112</value>
-  </data>
-  <data name="btnDateRestore.Size" type="System.Drawing.Size, System.Drawing">
-    <value>397, 33</value>
-  </data>
-  <data name="btnDateRestore.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="btnDateRestore.Text" xml:space="preserve">
-    <value>By Days or Date Since Last Login</value>
-  </data>
-  <data name="&gt;&gt;btnDateRestore.Name" xml:space="preserve">
-    <value>btnDateRestore</value>
-  </data>
-  <data name="&gt;&gt;btnDateRestore.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnDateRestore.Parent" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;btnDateRestore.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="txtRestoreDate.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="txtRestoreDate.Location" type="System.Drawing.Point, System.Drawing">
-    <value>126, 151</value>
-  </data>
-  <data name="txtRestoreDate.Size" type="System.Drawing.Size, System.Drawing">
-    <value>364, 35</value>
-  </data>
-  <data name="txtRestoreDate.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="txtRestoreDate.Text" xml:space="preserve">
-    <value>YYYY/MM/DD</value>
-  </data>
-  <data name="&gt;&gt;txtRestoreDate.Name" xml:space="preserve">
-    <value>txtRestoreDate</value>
-  </data>
-  <data name="&gt;&gt;txtRestoreDate.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtRestoreDate.Parent" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;txtRestoreDate.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="restoreNoTechBtn.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="restoreNoTechBtn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="restoreNoTechBtn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>38, 73</value>
-  </data>
-  <data name="restoreNoTechBtn.Size" type="System.Drawing.Size, System.Drawing">
-    <value>302, 33</value>
-  </data>
-  <data name="restoreNoTechBtn.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="restoreNoTechBtn.Text" xml:space="preserve">
-    <value>All Profiles But Tech IDs</value>
-  </data>
-  <data name="&gt;&gt;restoreNoTechBtn.Name" xml:space="preserve">
-    <value>restoreNoTechBtn</value>
-  </data>
-  <data name="&gt;&gt;restoreNoTechBtn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;restoreNoTechBtn.Parent" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;restoreNoTechBtn.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="restoreAllBtn.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="restoreAllBtn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="restoreAllBtn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>38, 34</value>
-  </data>
-  <data name="restoreAllBtn.Size" type="System.Drawing.Size, System.Drawing">
-    <value>159, 33</value>
-  </data>
-  <data name="restoreAllBtn.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="restoreAllBtn.Text" xml:space="preserve">
-    <value>All Profiles</value>
-  </data>
-  <data name="&gt;&gt;restoreAllBtn.Name" xml:space="preserve">
-    <value>restoreAllBtn</value>
-  </data>
-  <data name="&gt;&gt;restoreAllBtn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;restoreAllBtn.Parent" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;restoreAllBtn.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;decryptBox.Name" xml:space="preserve">
-    <value>decryptBox</value>
-  </data>
-  <data name="&gt;&gt;decryptBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;decryptBox.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;decryptBox.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
-  </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;decryptBtn.Name" xml:space="preserve">
-    <value>decryptBtn</value>
-  </data>
-  <data name="&gt;&gt;decryptBtn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;decryptBtn.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;decryptBtn.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>37, 945</value>
-  </data>
-  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>326, 145</value>
-  </data>
-  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
-    <value>4</value>
   </data>
   <data name="decryptBox.Enabled" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -1837,32 +1611,198 @@ The input box must select a MIG file and the program will do the rest. You can d
   <data name="&gt;&gt;decryptBtn.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="btnRestore.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="btnRestore.Location" type="System.Drawing.Point, System.Drawing">
-    <value>405, 999</value>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2, 1050</value>
   </data>
-  <data name="btnRestore.Size" type="System.Drawing.Size, System.Drawing">
-    <value>199, 63</value>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>405, 29</value>
   </data>
-  <data name="btnRestore.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
   </data>
-  <data name="btnRestore.Text" xml:space="preserve">
-    <value>Begin Restore</value>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Created by Tanner Brunscheon 2017</value>
   </data>
-  <data name="&gt;&gt;btnRestore.Name" xml:space="preserve">
-    <value>btnRestore</value>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
   </data>
-  <data name="&gt;&gt;btnRestore.Type" xml:space="preserve">
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>tabPage3</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 26pt, style=Bold</value>
+  </data>
+  <data name="label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>215, 230</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>201, 89</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>tabPage3</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnMIG.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnMIG.Location" type="System.Drawing.Point, System.Drawing">
+    <value>207, 156</value>
+  </data>
+  <data name="btnMIG.Size" type="System.Drawing.Size, System.Drawing">
+    <value>209, 56</value>
+  </data>
+  <data name="btnMIG.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btnMIG.Text" xml:space="preserve">
+    <value>Migration Viewer</value>
+  </data>
+  <data name="&gt;&gt;btnMIG.Name" xml:space="preserve">
+    <value>btnMIG</value>
+  </data>
+  <data name="&gt;&gt;btnMIG.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;btnRestore.Parent" xml:space="preserve">
-    <value>tabPage2</value>
+  <data name="&gt;&gt;btnMIG.Parent" xml:space="preserve">
+    <value>tabPage3</value>
   </data>
-  <data name="&gt;&gt;btnRestore.ZOrder" xml:space="preserve">
-    <value>5</value>
+  <data name="&gt;&gt;btnMIG.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="richTextBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 331</value>
+  </data>
+  <data name="richTextBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>641, 725</value>
+  </data>
+  <data name="richTextBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>1.	Back up
+To back up a profile first select your option you would like to use. If you pick all profiles but tech ID’s all profiles but tech ID’s are backed up. If you choose days or date, you can enter a number or a date in YYYY/MM/DD format as specified. The program will automatically sense it. The number must be non-negative and the date must be in that format. IF YOU PICK BY DATE OR TIME YOU MUST EXCLUDE TECH ID’S ON RESTORE. If you pick specific profiles, check the profiles you want to back up. If you click all the profiles button all profiles will be selected. If you click it again, no profiles are selected. The button will stay on but this does not matter.
+
+
+The output box is automatically filled with the usb drive in the computer if there is on. The box will show the name of the currently selected drive. You can type in this box or you can press the … button on the right and a dialog will come up where you can pick the file you want to back up to. THIS FILE MUST EXIST. Once you pick the file you can pick a template where the program will make that file for you. Checking the box will allow you to pick a template. If you uncheck the box, the template will go away. Typing or selecting a new file will remove the template
+
+
+You can encrypt using the next box. You must insert a key. You also have a chance to overwrite.
+
+
+2.	Restore
+To restore a profile pick an option from the list. Restore all profiles restores all profiles on the file.  Restore all profiles but Tech ID’s restores all profiles but Tech ID’s. The date box can be filled with a date or days since last log in at the time of the back up to restore. 
+
+
+The next box allows you to choose if you migrate local accounts. You can set a password for the local accounts or leave it blank. All accounts will be the same. You can also choose if the accounts are enabled or disabled.
+
+
+The input box must select a MIG file and the program will do the rest. You can decrypt using the next box. You must insert a key.
+
+</value>
+  </data>
+  <data name="&gt;&gt;richTextBox1.Name" xml:space="preserve">
+    <value>richTextBox1</value>
+  </data>
+  <data name="&gt;&gt;richTextBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;richTextBox1.Parent" xml:space="preserve">
+    <value>tabPage3</value>
+  </data>
+  <data name="&gt;&gt;richTextBox1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnProgress.Name" xml:space="preserve">
+    <value>btnProgress</value>
+  </data>
+  <data name="&gt;&gt;btnProgress.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnProgress.Parent" xml:space="preserve">
+    <value>groupBox6</value>
+  </data>
+  <data name="&gt;&gt;btnProgress.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnBackLog.Name" xml:space="preserve">
+    <value>btnBackLog</value>
+  </data>
+  <data name="&gt;&gt;btnBackLog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnBackLog.Parent" xml:space="preserve">
+    <value>groupBox6</value>
+  </data>
+  <data name="&gt;&gt;btnBackLog.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnRestoreLog.Name" xml:space="preserve">
+    <value>btnRestoreLog</value>
+  </data>
+  <data name="&gt;&gt;btnRestoreLog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnRestoreLog.Parent" xml:space="preserve">
+    <value>groupBox6</value>
+  </data>
+  <data name="&gt;&gt;btnRestoreLog.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="groupBox6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 15</value>
+  </data>
+  <data name="groupBox6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>628, 135</value>
+  </data>
+  <data name="groupBox6.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="groupBox6.Text" xml:space="preserve">
+    <value>Logs</value>
+  </data>
+  <data name="&gt;&gt;groupBox6.Name" xml:space="preserve">
+    <value>groupBox6</value>
+  </data>
+  <data name="&gt;&gt;groupBox6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox6.Parent" xml:space="preserve">
+    <value>tabPage3</value>
+  </data>
+  <data name="&gt;&gt;groupBox6.ZOrder" xml:space="preserve">
+    <value>4</value>
   </data>
   <data name="btnProgress.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>

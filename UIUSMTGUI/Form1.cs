@@ -136,6 +136,7 @@ namespace UIUSMTGUI
             //If user wants specific profiles add them on an include
             else if (specificProfilesBtn.Checked)
             {
+                args += @"/ue:*\*";
                 foreach (Object checkedItem in profilesBox.CheckedItems)
                 {
                     args = args + " /ui:iowa\\" + checkedItem.ToString();
@@ -644,7 +645,6 @@ namespace UIUSMTGUI
                 txtPassword.Enabled = false;
                 txtPassword.Text = "";
                 boxLAE.Enabled = false;
-                boxLAE.Text = "";
             }
         }
         private void changeTemplate()
@@ -715,5 +715,16 @@ namespace UIUSMTGUI
             };
         }
 
+        private void btnDateRestore_CheckedChanged(object sender, EventArgs e)
+        {
+            if (btnDateRestore.Checked)
+            {
+                txtRestoreDate.Enabled = true;
+            }
+            else
+            {
+                txtRestoreDate.Enabled = false;
+            }
+        }
     }
 }

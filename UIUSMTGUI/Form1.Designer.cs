@@ -352,6 +352,7 @@
             this.btnDateRestore.Name = "btnDateRestore";
             this.btnDateRestore.TabStop = true;
             this.btnDateRestore.UseVisualStyleBackColor = true;
+            this.btnDateRestore.CheckedChanged += new System.EventHandler(this.btnDateRestore_CheckedChanged);
             // 
             // txtRestoreDate
             // 
